@@ -1,7 +1,16 @@
 {
-  "_comment": "Contenido caido de CINE TV (com.recon.flujo). Lo actualiza el escaner nocturno y/o los reportes de la flota. La app tambien filtra por nombre (OFFLINE/no funciona).",
-  "updated": "2026-07-01",
-  "live": [],
-  "vod": [],
-  "series": []
+"_comment": "generado por el escaner nocturno; caidos por IP+probe serial",
+"updated": "2026-07-01 13:23 UTC",
+"scanned": 25,
+"catalog": 59845,
+"cursor": 25,
+"live": [
+1665631,
+1665649,
+1666161,
+1666163,
+1666164
+],
+"vod": [],
+"series": []
 }
